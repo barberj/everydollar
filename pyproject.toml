@@ -1,0 +1,7 @@
+[project]
+name = "every-dollar"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+every-dollar = "every_dollar.cli:main"
